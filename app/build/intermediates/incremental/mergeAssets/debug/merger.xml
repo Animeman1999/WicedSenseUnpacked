@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="O:\cis298\WicedSenseUnpacked\app\src\main\assets"><file name="fonts/DigifaceWide.ttf" path="O:\cis298\WicedSenseUnpacked\app\src\main\assets\fonts\DigifaceWide.ttf"/><file name="license.html" path="O:\cis298\WicedSenseUnpacked\app\src\main\assets\license.html"/></source></dataSet><dataSet config="debug"><source path="O:\cis298\WicedSenseUnpacked\app\src\debug\assets"/></dataSet></merger>
